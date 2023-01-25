@@ -1,0 +1,23 @@
+/* i am color blind*/
+h1{
+    background-color: black;
+    color: skyblue;
+    font-style:Verdana ;
+    text-align: left;
+    text-decoration: wavy;
+}
+h2{
+    background-color: blue;
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    text-align:center;
+    font-style: italic;
+    
+}
+h3{
+    background-color: skyblue;
+    color: blue;
+    font-style:Verdana ;
+    text-align: right;
+    text-decoration:underline;
+}
