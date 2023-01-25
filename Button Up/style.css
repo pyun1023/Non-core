@@ -1,0 +1,25 @@
+/* i am color blind*/
+.one{
+    color: grey;
+    font-size:30px;
+    text-decoration: transparent;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    text-align: center;
+    width: 200px;
+}
+.two{
+    background-color:lightgreen;
+    color: white;
+    font-size:30px;
+    border-radius: 50%;
+    text-align: center;
+}
+.three{
+    background-color: blue;
+    box-shadow:black 2px ;
+    font-size:30px;
+    text-align: center;
+}
